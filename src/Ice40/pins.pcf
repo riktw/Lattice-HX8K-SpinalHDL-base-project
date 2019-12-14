@@ -1,0 +1,19 @@
+set_io io_LED0 B5
+set_io io_LED1 B4
+set_io io_LED2 A2
+set_io io_LED3 A1
+set_io io_LED4 C5
+set_io io_LED5 C4
+set_io io_LED6 B3
+set_io io_LED7 C3
+set_io clk  J3
+set_io reset P16
+set_io io_uart_rxd B10  #BDBUS0
+set_io io_uart_txd B12  #BDBUS1
+# set_io io_uart_rtsn B13 #BDBUS2
+# set_io io_uart_ctsn A15 #BDBUS3
+# set_io io_uart_dtrn A16 #BDBUS4
+# set_io io_uart_dsrn B14 #BDBUS5
+# set_io io_uart_dcdn B15 #BDBUS6
+
+

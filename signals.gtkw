@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.98 (w)1999-2019 BSI
+[*] Fri Dec 13 18:15:31 2019
+[*]
+[dumpfile] "/home/rik/PersonalFiles/Projects/Hobby/HX8KBaseProject/simWorkspace/Blinky/test.vcd"
+[dumpfile_mtime] "Fri Dec 13 18:15:19 2019"
+[dumpfile_size] 50209143
+[savefile] "/home/rik/PersonalFiles/Projects/Hobby/HX8KBaseProject/signals.gtkw"
+[timestart] 0
+[size] 2560 1379
+[pos] 1923 0
+*-20.000000 1310800 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[sst_width] 211
+[signals_width] 287
+[sst_expanded] 1
+[sst_vpaned_height] 414
+@28
+TOP.Blinky.clk
+@29
+TOP.Blinky.reset
+@28
+TOP.Blinky.io_LED0
+TOP.Blinky.io_LED1
+TOP.Blinky.io_LED2
+TOP.Blinky.io_LED3
+TOP.Blinky.io_LED4
+TOP.Blinky.io_LED5
+TOP.Blinky.io_LED6
+TOP.Blinky.io_LED7
+[pattern_trace] 1
+[pattern_trace] 0
